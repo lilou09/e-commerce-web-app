@@ -9,3 +9,6 @@ next time i will learn redux and redone the project with it.
 
 Thanks if you are reading this and hopefully i am getting better at programming 
 
+you can see the project at :
+https://console.firebase.google.com/project/eshop-64599/overview
+
